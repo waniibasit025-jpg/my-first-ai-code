@@ -1,0 +1,43 @@
+### today i will start my python series in which i will understand python as a BSC AI student 
+## we start operators first,..///
+a=1
+b=2
+c=a+b
+print(c)
+pass
+a,b=2,3
+c="@"
+print(a*c*b)
+pass
+a,b="2",3
+c="@"
+print((a+c)*b)
+pass
+a,b=3,4
+c=a/b
+print(c)
+pass
+a,b=3,4
+c=a//b
+print(c,a/b)
+pass
+a,b=10,10
+print(a==b)
+passa,b=10,19
+print(a<b)
+print(a>b)
+print(a<=b)
+print(a>=b)
+print(a!=b)
+pass
+num=10
+num+=10
+print("num:",num)
+pass
+num=100
+num=num+10
+print("num:",num)
+pass
+val1=True
+val2=False
+print("and operator:",val1 and val2 )
