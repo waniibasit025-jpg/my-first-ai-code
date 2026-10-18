@@ -7,4 +7,4 @@ if(age<18):
 elif(age<=45):
     print("can also vote ")    
 else:
-    print("can not vote")    
+    print("can not vote old")    
